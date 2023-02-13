@@ -1,0 +1,23 @@
+{
+  "name": "moto_car",
+  "version": "1.0.0",
+  "description": "this is learning project we set for our selves",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saveur1/moto_car.git"
+  },
+  "keywords": [
+    "car",
+    "users"
+  ],
+  "author": "saveur bikorimana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saveur1/moto_car/issues"
+  },
+  "homepage": "https://github.com/saveur1/moto_car#readme"
+}
